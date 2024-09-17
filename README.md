@@ -12,19 +12,19 @@ Essas são as telas do projeto:
 
 Nela é feito o processo de login e também permite a criação de um novo login;
 
-![tela_login](Fotos_sistema\tela_login.png)
+![tela_login](fotos_sistema\tela_login.png)
 
 ### *criar_login:*
 
 Permite a criação de um novo login.
 
-![criar_login](Fotos_sistema\tela_criar_usuario.png)
+![criar_login](fotos_sistema\tela_criar_usuario.png)
 
 ### *tela_princiapl:*
 
 Nessa janela é mostrado a lista de produtos já cadastrados, também aparece os botões para cadastrar ou excluir produtos.
 
-![tela_principal](Fotos_sistema\tela_principal.png)
+![tela_principal](fotos_sistema\tela_principal.png)
 
  O usuário pode editar o produto dando dois clicks no produto que queira editar. Na parte de cima da tela são as barras de filtragem para encontrar o produto desejado.
 
@@ -32,7 +32,7 @@ Nessa janela é mostrado a lista de produtos já cadastrados, também aparece os
 
 Nessa janela o usuário faz o cadastro do produto, colocando seu Nome, Descrição e preço.
 
-![tela_cadastro_produtos](Fotos_sistema\tela_cadastrar_produtos.png)
+![tela_cadastro_produtos](fotos_sistema\tela_cadastrar_produtos.png)
 
 ### *Banco de Dados:*
 
